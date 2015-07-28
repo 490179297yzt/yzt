@@ -1,0 +1,13 @@
+@import "_config";
+
+.m-topbar{
+  height: 40px;line-height: 40px;
+  background-color: $topbar-background-color;
+}
+
+.m-banner{
+  .item{
+    height: 500px;
+    background: url(../image/banner.jpg) top center no-repeat;
+  }
+}
